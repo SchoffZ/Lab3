@@ -1,5 +1,8 @@
 #wrapper{
-		margin-left: auto;
+		
+	}
+#main{
+	margin-left: 150px;
 		margin-right: auto;
 		width: 75%;
 		background-color: #ffffff;
@@ -32,4 +35,20 @@ img{
 	}
 #foot{
 		box-shadow: 3px 3px 4px;
+		background-color: #FFFFFF;
+	}
+nav{
+	float:left;
+	width: 125px;
+	background-color: #FFFFFF;
+	border: 4px inset #000066;
+	}
+nav ul{
+	list-style-type:none;
+	}
+nav a{
+	text-decoration: none;
+	}
+nav li{
+	display: inline;
 	}
