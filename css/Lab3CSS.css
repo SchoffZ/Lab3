@@ -85,4 +85,17 @@ header{
 		}
 	main{
 		width: auto;
-	}
+	   }
+    }
+a:link{
+    color:#1e90ff;
+    }
+a:visited{
+    color: #335599;
+    }
+a:hover{
+    color: #00bfff;
+}
+a:active{
+    color: #000000;
+    }
