@@ -36,6 +36,7 @@ img{
 #foot{
 		box-shadow: 3px 3px 4px;
 		background-color: #FFFFFF;
+        text-align: center;
 	}
 nav{
 	float:left;
