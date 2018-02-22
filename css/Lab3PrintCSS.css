@@ -10,3 +10,8 @@ img{
 body{
 	background-color: #ffffff;
 	}
+#wrapper{
+	background-color: #ffffff;
+	font-family: Arial, Geneva, snas-serif;
+	color: rgb(25, 25, 112);
+	}

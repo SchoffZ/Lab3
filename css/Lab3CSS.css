@@ -8,11 +8,11 @@
 		background-color: #ffffff;
 		border: 4px inset #000066;
 		padding: 15px;
+		font-family: Arial, Geneva, snas-serif;
+		color: rgb(25, 25, 112);
 	}
 body{
 	background-color: rgba(25, 25, 112, 0.7);
-	font-family: Arial, Geneva, snas-serif;
-	color: rgb(25, 25, 112);
 	}
 .listitem{
 	color: rgba(25, 25, 112, 0.7);
@@ -54,4 +54,32 @@ nav li{
 	}
 header{
 	background-color: #FFFFFF;
+	}
+@media only screen and (max-width: 1024px){
+	body{
+		margin:0;
+		}
+	#wrapper{
+		width: auto;
+		margin: 5px 5px 5px 5px;
+		}
+	nav{
+		float: none;
+		width: auto;
+		}
+	nav li{
+		display: inline-block;
+		padding: 0.5em;
+		}
+	nav ul{
+		text-align: center;
+		}
+	nav a{
+		border-style: none;
+		}
+	h1, h2{
+		font-size: 120%
+		}
+	main{
+		width: auto;
 	}
