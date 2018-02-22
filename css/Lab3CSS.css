@@ -39,6 +39,7 @@ img{
 	}
 nav{
 	float:left;
+    margin-left: 15px;
 	width: 125px;
 	background-color: #FFFFFF;
 	border: 4px inset #000066;
