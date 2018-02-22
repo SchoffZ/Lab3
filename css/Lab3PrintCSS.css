@@ -4,9 +4,6 @@ nav{
 header{
 	display: none;
 	}
-img{
-	display: none;
-	}
 body{
 	background-color: #ffffff;
 	}
@@ -15,3 +12,6 @@ body{
 	font-family: Arial, Geneva, snas-serif;
 	color: rgb(25, 25, 112);
 	}
+figure{
+    display: none;
+    }
